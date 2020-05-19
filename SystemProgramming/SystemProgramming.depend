@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1589917502 source:d:\sou\error404\projects\systemprogramming\main.cpp
+	<iostream>
+	<fstream>
+	<iterator>
+	<map>
+	"operations.h"
+	<vector>
+
+1589899204 source:d:\sou\error404\projects\systemprogramming\src\operations.cpp
+	"operations.h"
+
+1589900766 d:\sou\error404\projects\systemprogramming\include\operations.h
+	<iostream>
+	<map>
+
+1589912423 d:\sou\error404\projects\systemprogramming\operations.h
+	<map>
+	<string>
+	<vector>
+
+1589915172 source:d:\sou\error404\projects\systemprogramming\operations.cpp
+	"operations.h"
+	<iostream>
+	<map>
+	<vector>
+
